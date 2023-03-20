@@ -145,3 +145,30 @@ body {
 .cards:last-child {
     margin-right: 0px;
 }
+
+.cards .icon{
+    display: center;
+    width: 100%;
+    height: 130px;
+    font-size: 50px;
+    line-height: 110px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.cards .category{
+    width: 100%;
+    height: 50px;
+    font-family: 'Trebuchet MS';
+    font-size: 25 px;
+    font-weight: bold;
+    text-align: center;
+    color: #00538c;
+}
+
+.cards .description{
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    color: #00370b;
+    font-size: 15px;
+}
